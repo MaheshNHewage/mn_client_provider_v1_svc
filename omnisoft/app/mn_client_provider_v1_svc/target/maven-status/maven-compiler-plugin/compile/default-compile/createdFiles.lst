@@ -1,0 +1,17 @@
+com/mn/integration/api/mn_client_provider_v1_svc/models/PlayersServiceResponse.class
+com/mn/integration/api/mn_client_provider_v1_svc/service/PetRestClient$1.class
+com/mn/integration/api/mn_client_provider_v1_svc/repository/ProductRepository.class
+com/mn/integration/api/mn_client_provider_v1_svc/models/Players.class
+com/mn/integration/api/mn_client_provider_v1_svc/models/PlayersServiceRequest.class
+com/mn/integration/api/mn_client_provider_v1_svc/service/PetRestClient.class
+com/mn/integration/api/mn_client_provider_v1_svc/models/Name.class
+com/mn/integration/api/mn_client_provider_v1_svc/response/PetResponse.class
+com/mn/integration/api/mn_client_provider_v1_svc/MnClientProviderV1SvcApplication.class
+com/mn/integration/api/mn_client_provider_v1_svc/service/ProductService.class
+com/mn/integration/api/mn_client_provider_v1_svc/models/Tags.class
+com/mn/integration/api/mn_client_provider_v1_svc/response/ProductResponse.class
+com/mn/integration/api/mn_client_provider_v1_svc/models/Category.class
+com/mn/integration/api/mn_client_provider_v1_svc/controller/ProductController.class
+com/mn/integration/api/mn_client_provider_v1_svc/models/PetStatus.class
+com/mn/integration/api/mn_client_provider_v1_svc/dtos/Name.class
+com/mn/integration/api/mn_client_provider_v1_svc/entity/Product.class
