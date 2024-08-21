@@ -5,6 +5,8 @@ import lombok.Data;
 @Data
 public class Name {
 
-    private String firstName;
-    private String lastName;
+     String firstName = "Mahesh";
+     String lastName;
+     int num= "1231321";
+
 }
